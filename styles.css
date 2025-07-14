@@ -46,14 +46,14 @@ select {
 
 button {
   flex: 1;
-  background: #28a745;
+  background: #282ca7;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background: #218838;
+  background: #215d88;
 }
 
 ul#todoList {
@@ -88,7 +88,7 @@ li.task {
   color: orange;
 }
 .priority-low {
-  color: rgb(19, 0, 128);
+  color: rgb(128, 2, 0);
 }
 
 .YCH {
